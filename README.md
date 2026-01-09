@@ -8,20 +8,23 @@ A aplicação demonstra habilidades em **lógica de programação, organização
 
 ---
 
-## 🎯 Objetivo
-Desenvolver uma solução simples e funcional que permita:
-- Centralizar informações administrativas
-- Facilitar o controle de dados
-- Apoiar a tomada de decisões
+## 🎯 **Objetivo**
+
+Desenvolver uma solução simples, funcional e intuitiva para:
+- Centralizar informações administrativas  
+- Facilitar o controle de dados e processos  
+- Apoiar a tomada de decisões por meio de dados organizados  
 
 ---
 
-## ⚙️ Funcionalidades
-- ✔️ Cadastro de informações
-- ✔️ Atualização e exclusão de dados
-- ✔️ Organização por categorias
-- ✔️ Simulação de processos administrativos
-- ✔️ Interface simples e intuitiva
+## ⚙️ **Funcionalidades**
+
+- Cadastro de informações administrativas  
+- Atualização e exclusão de dados  
+- Organização por categorias  
+- Simulação de processos administrativos  
+- Interface simples e intuitiva  
+
 
 ---
 
@@ -29,8 +32,6 @@ Desenvolver uma solução simples e funcional que permita:
 - HTML5  
 - CSS3  
 - JavaScript  
-*(Tecnologias podem ser expandidas conforme evolução do projeto)*
-
 ---
 
 ## 🧠 Conceitos Aplicados
@@ -57,5 +58,5 @@ Desenvolver uma solução simples e funcional que permita:
 **Emilly Clicia**  
 Graduanda em Análise e Desenvolvimento de Sistemas  
 GitHub: https://github.com/emillicicia  
-LinkedIn: *(adicione quando quiser)*
+LinkedIn: *https://www.linkedin.com/in/emillyclicia?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 **
