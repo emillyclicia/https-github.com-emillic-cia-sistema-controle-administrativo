@@ -1,9 +1,10 @@
 # 📊 Sistema de Controle Administrativo
+📌 **Sobre o Projeto**
 
-## 📌 Sobre o Projeto
-Projeto desenvolvido com foco na **organização e controle de rotinas administrativas**, simulando um sistema utilizado para gerenciamento de dados e processos internos.
+Projeto desenvolvido com foco na **organização e controle de rotinas administrativas**, simulando um sistema utilizado para o gerenciamento de dados e processos internos.
 
-A aplicação demonstra habilidades em **lógica de programação, organização da informação, regras de negócio e desenvolvimento de soluções práticas**, unindo tecnologia e área administrativa.
+A aplicação demonstra habilidades em **lógica de programação, organização da informação, regras de negócio e desenvolvimento de soluções**, unindo tecnologia e área administrativa.
+
 
 ---
 
