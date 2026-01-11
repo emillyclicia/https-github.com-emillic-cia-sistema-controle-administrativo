@@ -42,8 +42,10 @@ Desenvolver uma solução simples, funcional e intuitiva para:
 
 ---
 
-## 📷 Demonstração
-*(Adicionar prints ou GIFs do sistema em funcionamento)*
+## ## 🌐 Demonstração
+Acesse o sistema em:
+https://emillyclicia.github.io/https-github.com-emillic-cia-sistema-controle-administrativo/
+
 
 ---
 
